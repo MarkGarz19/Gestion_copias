@@ -1,0 +1,4 @@
+Un entorno de desarrollo es un conjunto de procedimientos y herramientas que se utilizan para desarrollar un código fuente o programa. 
+Este término se utiliza a veces como sinónimo de entorno de desarrollo integrado (IDE), 
+que es la herramienta de desarrollo de software utilizado para escribir, generar, probar y depurar un programa. 
+También proporcionan a los desarrolladores una interfaz de usuario común (UI) para desarrollar y depurar en diferentes modos
